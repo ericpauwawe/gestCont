@@ -1,0 +1,10 @@
+services:
+    gestCont_user.registration.form.type:
+        class: gestCont\UserBundle\Form\Type\AjoutFormType
+        tags:
+            - { name: form.type, alias: gestCont_user_registration }
+    gestCont_user.profile.form.type:
+        class: gestCont\UserBundle\Form\Type\ProfileFormType
+        tags:
+            - { name: form.type, alias: gestCont_user_profile }
+           

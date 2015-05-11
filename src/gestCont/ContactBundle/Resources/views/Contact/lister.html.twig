@@ -1,0 +1,28 @@
+{% extends 'gestContContactBundle::layout.html.twig' %}
+{% block body %}
+
+  <h2>Mes contacts</h2>           
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Nom d'utilisateur</th>
+        <th>Email</th>
+        <th>Adresse</th>
+        <th>Telephone</th>
+        <th>Site web</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for i in info %}
+      <tr>
+        <td>{{ i.0.username }}</td>
+        <td>{{ i.0.email }}</td>
+        <td>{{ i.0.adresse }}</td>
+        <td>{{ i.0.telephone }}</td>
+        <td>{{ i.0.site }}</td>
+      </tr>
+     {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock body %}

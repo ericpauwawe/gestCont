@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/gestCont/app/Resources/views/layout.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/friendsofsymfony/user-bundle/Form/Type/RegistrationFormType.php</file>
+            <file>file:/C:/wamp/www/gestCont/app/config/services.yml</file>
+            <file>file:/C:/wamp/www/gestCont/src/AppBundle/AppBundle.php</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/UserBundle/gestContUserBundle.php</file>
+            <file>file:/C:/wamp/www/gestCont/app/config/parameters.yml</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/show_content.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/src/Acme/DemoBundle/Resources/config/routing.yml</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/register.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/show.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/ContactBundle/gestContContactBundle.php</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/UserBundle/Entity/User.php</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/friendsofsymfony/user-bundle/Resources/views/layout.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Resources/views/Form/bootstrap_3_horizontal_layout.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/ContactBundle/Entity/Contact.php</file>
+            <file>file:/C:/wamp/www/gestCont/src/Acme/DemoBundle/Controller/DemoController.php</file>
+            <file>file:/C:/wamp/www/gestCont/app/config/routing.yml</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/edit.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/ContactBundle/Entity/ContactRepository.php</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/friendsofsymfony/user-bundle/Form/Type/ProfileFormType.php</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/edit_content.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/UserBundle/Resources/config/services.yml</file>
+            <file>file:/C:/wamp/www/gestCont/app/config/config_prod.yml</file>
+            <file>file:/C:/wamp/www/gestCont/src/AppBundle/Controller/DefaultController.php</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/UserBundle/Form/Type/AjoutFormType.php</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/UserBundle/Resources/config/routing.yml</file>
+            <file>file:/C:/wamp/www/gestCont/app/config/config_dev.yml</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Resources/views/Form/form_div_layout.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/ContactBundle/Resources/views/Default/index.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/src/Acme/DemoBundle/AcmeDemoBundle.php</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/ContactBundle/Resources/config/routing.yml</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/UserBundle/Resources/config/security.yml</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/UserBundle/Resources/views/Default/index.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/app/AppKernel.php</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/UserBundle/Resources/views/layout.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/app/config/config.yml</file>
+            <file>file:/C:/wamp/www/gestCont/app/config/routing_dev.yml</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Resources/views/Form/bootstrap_3_layout.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/app/config/config_test.yml</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/register_content.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/UserBundle/Controller/UserController.php</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/friendsofsymfony/user-bundle/FOSUserBundle.php</file>
+            <file>file:/C:/wamp/www/gestCont/app/config/security.yml</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Resources/views/Form/form_table_layout.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/ContactBundle/Controller/ContactController.php</file>
+            <file>file:/C:/wamp/www/gestCont/vendor/friendsofsymfony/user-bundle/Resources/views/Security/login.html.twig</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/UserBundle/Form/Type/InfoFormType.php</file>
+            <file>file:/C:/wamp/www/gestCont/src/gestCont/ContactBundle/Resources/views/layout.html.twig</file>
+        </group>
+    </open-files>
+</project-private>

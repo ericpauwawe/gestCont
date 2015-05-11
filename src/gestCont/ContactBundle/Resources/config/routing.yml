@@ -1,0 +1,15 @@
+gest_cont_contact_home:
+    path:     /
+    defaults: { _controller: gestContContactBundle:Contact:index }
+
+gest_cont_contact_ajouter:
+    path:     /ajouter
+    defaults: { _controller: gestContContactBundle:Contact:ajouter }
+
+gest_cont_contact_lister:
+    path:     /lister
+    defaults: { _controller: gestContContactBundle:Contact:lister }
+
+gest_cont_contact_supp:
+    path:     /supprimer
+    defaults: { _controller: gestContContactBundle:Contact:supprimer }
